@@ -106,7 +106,6 @@ The **Economic Indicators** page visualizes several macroeconomic variables that
 - Treasury Bill Rate
 - Average Weighted Deposit Rate (**AWDR**)
 - Average Weighted Prime Lending Rate (**AWPR**)
-- Exchange Rate
 - Imported Food and Drinks Unit Value Index
 - Imported Petroleum Price
 - Foreign Debt
